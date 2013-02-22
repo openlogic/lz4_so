@@ -16,11 +16,11 @@ dependency in the lumberjack project.
 
 Requirements
 ============
-subversion - to get the lz4 source
-make - to build the files
-ruby - for package creation
-rubygems - for package creation
-fpm - for package creation
+- subversion - to get the lz4 source
+- make - to build the files
+- ruby - for package creation
+- rubygems - for package creation
+- fpm - for package creation
 
 Usage
 =====
@@ -40,9 +40,9 @@ structure, and then create liblz4 and liblz4-dev packages.
 Notes
 =====
 
-lz4 source  http://code.google.com/p/lz4/
-fpm - https://github.com/jordansissel/fpm
-lumberjack - https://github.com/jordansissel/lumberjack/tree/master/vendor/lz4
+- lz4 source  http://code.google.com/p/lz4/
+- fpm - https://github.com/jordansissel/fpm
+- lumberjack - https://github.com/jordansissel/lumberjack/tree/master/vendor/lz4
 
 Copyright
 =========
