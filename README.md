@@ -44,3 +44,10 @@ lz4 source  http://code.google.com/p/lz4/
 fpm - https://github.com/jordansissel/fpm
 lumberjack - https://github.com/jordansissel/lumberjack/tree/master/vendor/lz4
 
+Copyright
+=========
+
+Copyright (c) 2013 OpenLogic, Inc.
+
+See LICENSE.txt for further details.
+
