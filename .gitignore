@@ -1,0 +1,10 @@
+# Ignore build targets and work dirs
+build/**/*
+
+# and work dirs
+lz4-*
+
+# and deb files
+*.deb
+
+
